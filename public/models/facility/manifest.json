@@ -1,0 +1,17 @@
+{
+  "points": 350000,
+  "triangles": 49916,
+  "bounds": {
+    "min": [
+      -14.45646858215332,
+      -4.7683716530855236e-8,
+      -12.960000038146973
+    ],
+    "max": [
+      16.45646858215332,
+      6.540926456451416,
+      10.960000038146973
+    ]
+  },
+  "source": "CC0 warehouse + Poly Haven industrial pipe kit; custom layout and fixtures"
+}
